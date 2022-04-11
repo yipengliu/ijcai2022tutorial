@@ -2,7 +2,12 @@
 
 
 ## Guest Speaker
-<img src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/image.png" alt="drawing" width="100"/>
+
+<img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/image.png" alt="drawing" width="220"/>
+
+&emsp;Yipeng Liu is an associate professor with University of Electronic Science and Technology of China (UESTC), Chengdu, China. He received the B.S. degree in biomedical engineering and the Ph.D. degree in information and communication engineering from UESTC, Chengdu, China, in 2006 and 2011, respectively. In 2011, he was a Research Engineer at Huawei Technologies. From 2011 to 2014, he was a Research Fellow at the University of Leuven, Leuven, Belgium. Since 2014, he has been an Associate Professor with UESTC, Chengdu, China. 
+
+&emsp;His research interest is tensor for data processing. He has published over 70 papers. He has two co-authored books “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” by NOW Publishers, and edited one book “Tensors for Data Processing” by Elsevier. He has been served as an associate editor for IEEE Signal Processing Letters and lead guest editor for Signal Processing: Image Communication. He has given and will give tutorials for several international conferences, such as IJCAI 2022, ICME 2022, VCIP 2021, ICIP 2020, SSCI 2020, ISCAS 2019, SiPS 2019, and APSIPA ASC 2019. He is the APSIPA Distinguished Lecturer 2022-2023.
 
 ## Description
 
