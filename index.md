@@ -1,5 +1,8 @@
 # Tensor Computation for Data Processing
 
+<img src="https://github.com/yipengliu/ijcai2022tutorial/blob/gh-pages/Yipeng_Liu.JPG" alt="drawing" width="100"/>
+
+
 ## Description
 
 
