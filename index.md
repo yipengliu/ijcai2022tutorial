@@ -2,7 +2,7 @@
 
 
 ## Guest Speaker
-<img src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/Yipeng_Liu.JPG" alt="drawing" width="100"/>
+<img src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/image.png" alt="drawing" width="100"/>
 
 ## Description
 
