@@ -1,9 +1,8 @@
-# Tensor Computation for Data Processing   
-<br/>
- <div align=center>IJCAI 2022 Tutorial
+# Tensor Computation for Data Processing   <br/> <div align=center> IJCAI 2022 Tutorial <br/><div align=center> Time: *******2022
+
+
+
   
-<br/>
- <div align=center>Time: *******2022
 
 <div align=left>
   
