@@ -1,6 +1,6 @@
 # Tensor Computation for Data Processing
 
-
+----------------------------------
 ## Guest Speaker
 
 <img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/image.png" alt="drawing" width="220"/>
