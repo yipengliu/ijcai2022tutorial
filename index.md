@@ -1,5 +1,13 @@
-# Tensor Computation for Data Processing
+# Tensor Computation for Data Processing   
+<br/>
+ <div align=center>IJCAI 2022 Tutorial
+  
+<br/>
+ <div align=center>Time: *******2022
 
+<div align=left>
+  
+  
 ----------------------------------
 ## Guest Speaker
 
@@ -18,6 +26,10 @@
 &emsp;&emsp;This tutorial will first provide a basic coverage of tensor notations, preliminary operations, main tensor decompositions and their properties. Based on them, a series of tensor processing methods are presented, as the multi-linear extensions of classical sparse learning, missing component analysis, principal component analysis, subspace cluster, linear regression, support vector machine, deep neural network, etc. The experimental results for a number of data processing applications are given, such as image reconstruction, image quality enhancement, multimedia data fusion, background extraction, weather forecasting, pose estimation, source separation in speech, etc. Finally, some acceleration strategies are discussed for some more possible applications.
 
 
+  ## Duration  
+   1/2 day.
+  
+  
 ## Tutorial Outline
 ### 1.	Introduction to tensor
 ####   &emsp;a)	Tensor Computation (20 minutes)
@@ -46,14 +58,14 @@
 &emsp;&emsp;In this section, recent results on main strategies to improve computation performance will be briefly discussed, such as random tensor subsampling, online tensor learning, distributed tensor processing. These advanced topics and in-depth discussions may enhance the participants’ learning experience and stimulate their own R&D work in the relevant areas.
 
 
-### 4.Potential audience
+## Potential audience
 
 &emsp;&emsp;It is intended for researchers, developers, engineers, students and people interested in gaining an overall understanding of Tensor methods and its applications in data processing.
 
 &emsp;&emsp;Prerequisite knowledge includes: a basic understanding of linear algebra, matrix computation, optimization. Preliminary knowledge of machine learning can be helpful.
 
 
-### 5.Objectives
+## Objectives
 
 &emsp;&emsp;Tenor is a natural representation for multi-dimensional data, and tensor computation based data processing can avoid multi-linear data structure loss in classical matrix based data processing methods. 
 
@@ -61,7 +73,7 @@
 
 &emsp;&emsp;This tutorial serves to introduce expert non-specialists to an AI subarea, motivate and explain a topic of emerging importance for AI.
 
-### 6.Ethical concerns
+## Ethical concerns
 
 &emsp;&emsp;There is no ethical concern.
 
