@@ -1,6 +1,6 @@
 # Tensor Computation for Data Processing
 
-<img src="https://github.com/yipengliu/ijcai2022tutorial/blob/gh-pages/Yipeng_Liu.JPG" alt="raw" width="100"/>
+<img src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/Yipeng_Liu.JPG" alt="drawing" width="100"/>
 
 drawing
 ## Description
