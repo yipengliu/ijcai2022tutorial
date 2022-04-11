@@ -1,8 +1,9 @@
 # Tensor Computation for Data Processing
 
+
+## Guest Speaker
 <img src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/Yipeng_Liu.JPG" alt="drawing" width="100"/>
 
-drawing
 ## Description
 
 
