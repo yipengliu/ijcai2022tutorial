@@ -1,6 +1,6 @@
 ## Tensor Computation for Data Processing
 
-You can use the [editor on GitHub](https://github.com/yipengliu/ijcai2022tutorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+IJCAI-ECAI 2022 Tutorial Proposal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
