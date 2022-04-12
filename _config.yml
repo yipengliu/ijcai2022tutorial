@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+---
+layout: default
+title: this title will be recognized by jekyll
