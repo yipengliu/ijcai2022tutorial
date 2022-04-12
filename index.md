@@ -19,8 +19,9 @@
 &emsp;&emsp;This tutorial will first provide a basic coverage of tensor notations, preliminary operations, main tensor decompositions and their properties. Based on them, a series of tensor processing methods are presented, as the multi-linear extensions of classical sparse learning, missing component analysis, principal component analysis, subspace cluster, linear regression, support vector machine, deep neural network, etc. The experimental results for a number of data processing applications are given, such as image reconstruction, image quality enhancement, multimedia data fusion, background extraction, weather forecasting, pose estimation, source separation in speech, etc. Finally, some acceleration strategies are discussed for some more possible applications.
 
 
-  ## Duration  
-   1/2 day.
+## Duration  
+
+&emsp;&emsp; 1/2 day.
   
   
 ## Tutorial Outline
