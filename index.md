@@ -2,7 +2,7 @@
 
 ----------------------------------
   
-## Presenter1
+## Presenter 1
 
 <img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/image.png" alt="drawing" width="220"/>
 
