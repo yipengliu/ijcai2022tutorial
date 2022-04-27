@@ -12,7 +12,7 @@
 
 ## Presenter 2
 
-<img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/liujiani2.jpg" alt="drawing" width="220"/>
+<img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/liujiani2.png" alt="drawing" width="220"/> 
 
 &emsp;Jiani Liu received the BSc degree in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. From 2016 to now, she is a PhD student with the UESTC, Chengdu, China. She is currently conducting joint training in the Department of Electronic Engineering (ESAT), KU Leuven. Professor Johan A. K. Suykens, the co-tutor, is a well-known expert in the field of machine learning, the inventor of the Least Squares Support Vector Machine (LS-SVM), an IEEE Fellow, and a keynote speaker at conferences such as ICASSP 2016 and WCCI 2020.
 
