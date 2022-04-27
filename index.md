@@ -14,9 +14,9 @@
 
 <img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/liujiani2.png" alt="drawing" width="220"/> 
 
-&emsp;Jiani Liu received the BSc degree in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. From 2016 to now, she is a PhD student with the UESTC, Chengdu, China. She is currently conducting joint training in the Department of Electronic Engineering (ESAT), KU Leuven. Professor Johan A. K. Suykens, the co-tutor, is a well-known expert in the field of machine learning, the inventor of the Least Squares Support Vector Machine (LS-SVM), an IEEE Fellow, and a keynote speaker at conferences such as ICASSP 2016 and WCCI 2020.
+&emsp;Jiani Liu received the BSc degree in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. From 2016 to now, she is a PhD student with the UESTC, Chengdu, China. She is currently conducting joint training in the Department of Electronic Engineering (ESAT), KU Leuven.
 
-&emsp;She is primarily interested in theory, method, and application of tensor regression analysis. Based on tensor computing, the research focuses on regression methods for multi-dimensional data, which are commonly utilized in multi-dimensional images or video analysis, social data analysis, and so on. She has published several papers in top journals like TNNLS, TKDE, TIP, and her co-authored two books "Tensor Computation for Data Analysis"  and “Tensor regression” is published by Springer and NOW Publishers.
+&emsp;She is primarily interested in theory, method, and application of tensor regression analysis. Based on tensor computing, the research focuses on regression methods for multi-dimensional data, which are commonly utilized in multi-dimensional images or video analysis, social data analysis, and so on. She has published several papers in top journals like TNNLS, TKDE, TIP, and her co-authored two books "Tensor Computation for Data Analysis"  and “Tensor regression” are published by Springer and NOW Publishers, respectively.
 
 
 ## Description
