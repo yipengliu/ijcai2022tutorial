@@ -2,7 +2,7 @@
 
 ----------------------------------
   
-## Guest Speaker
+## Presenter
 
 <img align="right" src="https://github.com/yipengliu/ijcai2022tutorial/raw/gh-pages/image.png" alt="drawing" width="220"/>
 
@@ -33,7 +33,7 @@
 &emsp;&emsp;As a generalization of array with three or more indices, a higher-order tensor has a series of new notations and operations for computation, such as matricization, tensor inner product, tensor outer product, mode-n product of tensor, tensor product, etc. Based on these tensor operations, the main tensor decompositions, as the higher-order extensions of the matrix singular value decomposition, are presented, such as CANDECOMP/PARAFAC (CP) decomposition, Tucker decomposition, block term decomposition, tensor singular value decomposition (t-SVD), tensor train, tensor tree, tensor ring, etc. we will compare these decompositions, and discuss both their advantages and disadvantages.
 
 
-### 2.	Tensor for Multimedia Signal Processing 
+### 2.	Tensor for Data Processing
 #### &emsp;a)	Sparse Learning (15 minutes)
 #### &emsp;b)	Missing Component Analysis (15 minutes)
 #### &emsp;c)	Coupled Tensor Analysis (10 minutes)
