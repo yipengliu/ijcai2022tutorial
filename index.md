@@ -10,6 +10,12 @@
 
 &emsp;His research interest is tensor for data processing. He has published over 70 papers. He has two co-authored books “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” by NOW Publishers, and edited one book “Tensors for Data Processing” by Elsevier. He has been served as an associate editor for IEEE Signal Processing Letters and lead guest editor for Signal Processing: Image Communication. He has given and will give tutorials for several international conferences, such as IJCAI 2022, ICME 2022, VCIP 2021, ICIP 2020, SSCI 2020, ISCAS 2019, SiPS 2019, and APSIPA ASC 2019. He is the APSIPA Distinguished Lecturer 2022-2023.
 
+## Presenter 2
+&emsp;Jiani Liu received the BSc degree in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. From 2016 to now, she is a PhD student with the UESTC, Chengdu, China. She is currently conducting joint training in the Department of Electronic Engineering (ESAT), KU Leuven. Professor Johan A. K. Suykens, the co-tutor, is a well-known expert in the field of machine learning, the inventor of the Least Squares Support Vector Machine (LS-SVM), an IEEE Fellow, and a keynote speaker at conferences such as ICASSP 2016 and WCCI 2020.
+
+&emsp;She is primarily interested in theory, method, and application of tensor regression analysis. Based on tensor computing, the research focuses on regression methods for multi-dimensional data, which are commonly utilized in multi-dimensional images or video analysis, social data analysis, and so on. She has published several papers in top journals like TNNLS, TKDE, TIP, and her co-authored two books "Tensor Computation for Data Analysis"  and “Tensor regression” is published by Springer and NOW Publishers.
+
+
 ## Description
 
 
